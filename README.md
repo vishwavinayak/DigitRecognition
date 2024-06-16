@@ -1,5 +1,9 @@
 # Digit Recognition Project
 This repository contains a neural network implementation in Python using NumPy for classifying handwritten digits. The project includes data loading, visualization, neural network implementation, and training.
+<img width="621" alt="Screenshot 2024-06-16 at 9 46 59 PM" src="https://github.com/vishwavinayak/DigitRecognition/assets/150454731/0a5452f5-f6f8-4238-8f28-e1e26e1da483">
+<img width="273" alt="Screenshot 2024-06-16 at 9 47 15 PM" src="https://github.com/vishwavinayak/DigitRecognition/assets/150454731/e7b028e3-e8b0-4d32-81b1-92599df633af">
+
+
 # Introduction
 This project implements a simple neural network from scratch to classify handwritten digits. It covers the following steps:
 ---
