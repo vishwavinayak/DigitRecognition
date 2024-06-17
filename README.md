@@ -17,8 +17,8 @@ This project implements a simple neural network from scratch to classify handwri
 6. Evaluating the model's performance
 ---
 # Installation
-Install the requried packages:
-pip install -r requirements.txt
+Install the requried packages:\
+"""pip install -r requirements.txt"""
 # Data
 The data consists of handwritten digit images. The dataset is divided into training and test sets:
 'train_X.csv': Training set features
